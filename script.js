@@ -10,11 +10,11 @@ let arrIndex = 0;
 
 //=========Picture to show.Add as many as You like=====//
 let picArr = [
-	"/img/car.png",
+	"../img/car.png",
 	"https://cdn.pixabay.com/photo/2016/07/11/15/43/woman-1509956_960_720.jpg",
-	"/img/parrots.png",
+	"../img/parrots.png",
 	"https://cdn.pixabay.com/photo/2023/02/06/01/14/superb-fairywren-7770904_960_720.jpg",
-	"/img/cat.png",
+	"../img/cat.png",
 ];
 
 //======Create bottom dots ====//
