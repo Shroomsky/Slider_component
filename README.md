@@ -13,4 +13,4 @@ Navigation dots are created in the number of elements in the "picArr" array.
 ![Component](./Screenshot_1.png)
 
 
-[My solution site](https://shroomsky.github.io/Slider_component/)
+[Slider/Carousel live view](https://shroomsky.github.io/Slider_component/)
